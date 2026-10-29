@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/battery-jump-start-lahore",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/battery-jump-start-lahore/",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/roadside-assistance-lahore",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    },
+    {
+      "source": "/roadside-assistance-lahore/",
+      "destination": "/car-towing-lahore/",
+      "permanent": true
+    }
+  ]
+}

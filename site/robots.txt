@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://towbrother.com/sitemap.xml
+Sitemap: https://www.towbrother.com/sitemap.xml
