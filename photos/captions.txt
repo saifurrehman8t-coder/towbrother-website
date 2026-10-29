@@ -1,0 +1,6 @@
+# Har photo ke liye ek line:  file-ka-naam.jpg | photo mein kya hai (English)
+# Misaal:
+# truck1.jpg | Tow Brothers flatbed tow truck towing a Honda Civic in DHA Lahore
+01-flatbed-sedan.jpg | Flatbed tow truck carrying a white sedan on a Lahore road
+03-night-motorway-flatbed.jpg | Flatbed tow truck recovering an accident-damaged car on the motorway at night
+04-flatbed-tyre-straps.jpg | Tyre straps securing a car on a flatbed tow truck for safe towing

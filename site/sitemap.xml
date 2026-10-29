@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.towbrother.com/</loc><lastmod>2026-10-29</lastmod><priority>1.0</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url><loc>https://www.towbrother.com/</loc><lastmod>2026-10-29</lastmod><priority>1.0</priority><image:image><image:loc>https://www.towbrother.com/assets/gallery/flatbed-tow-truck-carrying-a-white-sedan-on-a-lahore-road-1.jpg</image:loc></image:image><image:image><image:loc>https://www.towbrother.com/assets/gallery/flatbed-tow-truck-recovering-an-accident-damaged-car-on-the-2.jpg</image:loc></image:image><image:image><image:loc>https://www.towbrother.com/assets/gallery/tyre-straps-securing-a-car-on-a-flatbed-tow-truck-for-safe-t-3.jpg</image:loc></image:image></url>
+<url><loc>https://www.towbrother.com/gallery/</loc><lastmod>2026-10-29</lastmod><priority>0.6</priority><image:image><image:loc>https://www.towbrother.com/assets/gallery/flatbed-tow-truck-carrying-a-white-sedan-on-a-lahore-road-1.jpg</image:loc></image:image><image:image><image:loc>https://www.towbrother.com/assets/gallery/flatbed-tow-truck-recovering-an-accident-damaged-car-on-the-2.jpg</image:loc></image:image><image:image><image:loc>https://www.towbrother.com/assets/gallery/tyre-straps-securing-a-car-on-a-flatbed-tow-truck-for-safe-t-3.jpg</image:loc></image:image></url>
 <url><loc>https://www.towbrother.com/services/</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
 <url><loc>https://www.towbrother.com/car-recovery-lahore/</loc><lastmod>2026-10-29</lastmod><priority>0.9</priority></url>
 <url><loc>https://www.towbrother.com/car-towing-lahore/</loc><lastmod>2026-10-29</lastmod><priority>0.9</priority></url>
